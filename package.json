@@ -1,0 +1,27 @@
+{
+  "name": "hypnotic",
+  "version": "1.0.0",
+  "description": "A Universal JavaScript Node+React+Redux framework that eliminates analysis paralysis & boilerplate.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "babel-node source/test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypnoticjs/hypnotic.git"
+  },
+  "keywords": [
+    "framework",
+    "react",
+    "node",
+    "universal",
+    "javascript",
+    "redux"
+  ],
+  "author": "Eric Elliott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hypnoticjs/hypnotic/issues"
+  },
+  "homepage": "https://github.com/hypnoticjs/hypnotic#readme"
+}
